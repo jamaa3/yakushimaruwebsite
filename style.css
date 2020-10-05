@@ -1,0 +1,19 @@
+
+
+	body{
+		font-family: sans-serif;
+		text-align: center;
+   		 background: #EAF3FB;
+	}
+	title{
+ 	 font-family: MS UI Gothic;
+}
+	img{
+ 	 display: block;
+ 	 margin: auto;
+ 	 height: auto;
+ 	 max-width: 40%;
+}
+	#img-caption {
+ 	 font-size: 10px;
+}
